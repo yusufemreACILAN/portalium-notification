@@ -1,6 +1,6 @@
 <?php
 
-namespace portalium\template\controllers\api;
+namespace portalium\notification\controllers\api;
 
 use portalium\rest\ActiveController as RestActiveController;
 
