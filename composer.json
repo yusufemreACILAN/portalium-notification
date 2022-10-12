@@ -1,7 +1,7 @@
 {
 	"name" : "portalium/portalium-notification",
 	"description" : "Module notification for Portalium",
-	"type" : "yii2-extension",
+	"type" : "portalium-core",
 	"license": "MIT",
 	"homepage" : "https://portalium.dev",
 	"authors" : [
