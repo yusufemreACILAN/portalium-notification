@@ -1,6 +1,6 @@
 <?php
 
-namespace portalium\template\controllers\web;
+namespace portalium\notification\controllers\web;
 
 use portalium\web\Controller as WebController;
 
